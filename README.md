@@ -1,4 +1,4 @@
-# Raydium Volume Bot
+# Solana Raydium Volume Bot
 
 This volume bot distribute SOL to multiple wallets and buy and sell with that distributed wallets permanently on the Raydium platform.
 
@@ -12,7 +12,7 @@ This volume bot distribute SOL to multiple wallets and buy and sell with that di
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/sourlodine/Solana-Raydium-Volume-Bot.git
+git clone https://github.com/atosguru/Solana-Raydium-Volume-Bot.git
 cd Solana-Raydium-Volume-Bot
 ```
 2. Install dependencies
@@ -46,6 +46,6 @@ npm run start
 
 ## Contact me if you have question
 
-[Telegram](https://t.me/TarpanTg)
+[Telegram](https://t.me/cryptoking_cto)
 
-## You can always feel free to find me here for my help on other bots like Raydium sniping bot, Shit-token Launcher, Token-freezer, Pumpfun sniper, Market making bot.
+## Please feel free to find me here for my help on other bots like Raydium sniping bot, Shit-token Launcher, Token-freezer, Pumpfun sniper, Market making bot, Ethereum Arbitrage Bot, Copy Trading Bot, Ethereum Volume bot.
